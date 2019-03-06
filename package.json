@@ -1,5 +1,5 @@
 {
-  "name": "vue-web-monetization",
+  "name": "vuejs-web-monetization",
   "version": "0.0.1",
   "description": "WebMonetization for vue",
   "main": "dist/vue-web-monetization.cjs",

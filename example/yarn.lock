@@ -7619,15 +7619,15 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue-web-monetization@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/vue-web-monetization/-/vue-web-monetization-0.0.1.tgz#099025b55732ae999454d3176b0b2a7cb4b22126"
-  integrity sha512-DaBQOaJ23VdxSdYln0SABfEPIvUTe35alp+vGJ/NEbLeGkUTf2HJ0GMWSSFzRof5zTOf2qIsRrB8UD7RcFqzPg==
-
 vue@^2.6.6:
   version "2.6.8"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.8.tgz#f21cbc536bfc14f7d1d792a137bb12f69e60ea91"
   integrity sha512-+vp9lEC2Kt3yom673pzg1J7T1NVGuGzO9j8Wxno+rQN2WYVBX2pyo/RGQ3fXCLh2Pk76Skw/laAPCuBuEQ4diw==
+
+vuejs-web-monetization@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/vuejs-web-monetization/-/vuejs-web-monetization-0.0.1.tgz#f850824d897a24049469edc37cc6530466c2e6df"
+  integrity sha512-6sSQTx9MEEqzC4i8dhyEYuK8qzlvkyRFUqJwqRJ4Kk0P1sdjsc1wYiyNrIhBLThakuQWMeZkUpZVmwe97fVS+g==
 
 watchpack@^1.5.0:
   version "1.6.0"
