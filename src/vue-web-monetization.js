@@ -1,3 +1,6 @@
+const BigNumber = require('bignumber.js')
+BigNumber.config({ DECIMAL_PLACES: 4 })
+
 const VueWebMonetization = {
   install(Vue) {
     this._vueMonetization = {
@@ -48,11 +51,12 @@ const VueWebMonetization = {
     const _onMonetizationprogress = ev => {
       const { amount, assetCode, assetScale } = ev.detail
       const scale = Math.pow(10, assetScale)
+      const newScaledAmount = new BigNumber(amount, 10).div(scale).toNumber()
+      const totalAmount = new BigNumber(_this._vueMonetization.progress.totalAmount, 10).plus(newScaledAmount).toNumber()
       const newMonetizationProgress = {
         assetCode,
         assetScale,
-        totalAmount:
-          _this._vueMonetization.progress.totalAmount + Number(amount / scale)
+        totalAmount
       }
       Vue.prototype.$vueWebMonetizationProgress = Object.assign(
         {},

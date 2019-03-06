@@ -1,12 +1,13 @@
 {
   "name": "vuejs-web-monetization",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "WebMonetization for vue",
   "main": "dist/vue-web-monetization.cjs",
   "module": "dist/vue-web-monetization.js",
   "peerDependencies": {
     "vue": "^2.0.0",
-    "vue-template-compiler": "^2.5.22"
+    "vue-template-compiler": "^2.5.22",
+    "bignumber.js": "^8.1.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
