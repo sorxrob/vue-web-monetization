@@ -20,7 +20,7 @@ Supports meta tag based WebMonetization.
 
 main.js
 ```
-import VueWebMonetization from 'vue-web-monetization'
+import VueWebMonetization from 'vuejs-web-monetization'
 Vue.use(VueWebMonetization)
 ```
 
