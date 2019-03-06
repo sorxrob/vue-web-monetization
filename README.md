@@ -1,4 +1,4 @@
-# Vue Web Monetization
+# Vue.js Web Monetization
 > This project is a simple one for implementing WebMonetization based on Vue.js.
 For this reason, the `vue-web-monetization` library implements only the necessary minimum functionality.
 
