@@ -86,7 +86,7 @@ But, this library is very simple as I created it experimentally.
 When using it with actual product, you should use this library by modifying it.
 
 ```
-yarn add vue-web-monetization
+yarn add vuejs-web-monetization
 ```
 
-[Vue Web Monetization](https://www.npmjs.com/package/vue-web-monetization)
+[Vue Web Monetization](https://www.npmjs.com/package/vuejs-web-monetization)
