@@ -15,8 +15,8 @@ export default {
     }
   ],
   plugins: [
-    nodeResolve({ jsnext: true }), // npmモジュールを`node_modules`から読み込む
-    commonjs(), // CommonJSモジュールをES6に変換
-    babel() // ES5に変換
+    nodeResolve({ jsnext: true }),
+    commonjs(),
+    babel()
   ]
 }
