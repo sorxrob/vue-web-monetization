@@ -3,7 +3,7 @@
 var BigNumber = require('bignumber.js');
 
 BigNumber.config({
-  DECIMAL_PLACES: 4
+  DECIMAL_PLACES: 6
 });
 var VueWebMonetization = {
   install: function install(Vue) {

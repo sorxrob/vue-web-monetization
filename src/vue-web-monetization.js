@@ -1,5 +1,5 @@
 const BigNumber = require('bignumber.js')
-BigNumber.config({ DECIMAL_PLACES: 4 })
+BigNumber.config({ DECIMAL_PLACES: 6 })
 
 const VueWebMonetization = {
   install(Vue) {
