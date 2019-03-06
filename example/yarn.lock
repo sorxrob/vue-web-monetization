@@ -7624,10 +7624,10 @@ vue@^2.6.6:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.8.tgz#f21cbc536bfc14f7d1d792a137bb12f69e60ea91"
   integrity sha512-+vp9lEC2Kt3yom673pzg1J7T1NVGuGzO9j8Wxno+rQN2WYVBX2pyo/RGQ3fXCLh2Pk76Skw/laAPCuBuEQ4diw==
 
-vuejs-web-monetization@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/vuejs-web-monetization/-/vuejs-web-monetization-0.0.4.tgz#ced948fc69ca18fb9f0d808517d931e642e4b20d"
-  integrity sha512-9eBwWQkr/uRsIDeFqOFVCZ/0vd2gQnYMaPx8/rBvaSv02jDPK1dgA8LNKl40DY8RRjU074yMaRSGWok0KJVDdQ==
+vuejs-web-monetization@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/vuejs-web-monetization/-/vuejs-web-monetization-0.0.5.tgz#00ca6b7f73f8886972c5f0e776802c9081ecc236"
+  integrity sha512-YFmGZLg96f6Xp3WMX4W3TdAnIWaJpKRMkF06b00EL5O0lLwMDTwv9OSJeyHe+CmeibyVNBHxAcczGWKOBzNoCA==
 
 watchpack@^1.5.0:
   version "1.6.0"
